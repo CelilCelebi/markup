@@ -62,7 +62,7 @@
 
 ### Changed
 
-* Added support for highlight directive in rST [#925](https://github.com/github/markup/pull/925)
+* Added support for highlight directive in RST [#925](https://github.com/github/markup/pull/925)
 * Fixes to documentation and code style [#1009](https://github.com/github/markup/pull/1009) [#1071](https://github.com/github/markup/pull/1071) [#1087](https://github.com/github/markup/pull/1087)
 * Test against newer Ruby versions [#1086](https://github.com/github/markup/pull/1086)
 * Upgrade to Asciidoctor 1.5.6.1 [#1088](https://github.com/github/markup/pull/1088)
